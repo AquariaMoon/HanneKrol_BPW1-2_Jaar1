@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 437b4fa8d1ac96140b926935ce67255c
+timeCreated: 1523459458
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {fileID: 2800000, guid: fe9000b8594e10242b5b149c38c62e49, type: 3}
+  - _node_2135: {fileID: 2800000, guid: 4e018224de964c140934686d6bd844b2, type: 3}
+  - _Glow_Mask: {fileID: 2800000, guid: 4e018224de964c140934686d6bd844b2, type: 3}
+  - _Bordermesh_Fade: {fileID: 2800000, guid: dd7df3254c3ff424886cf39dfcc765b2, type: 3}
+  - _Emission_Mask: {fileID: 2800000, guid: e958c6041cfe445e987c73751e8d4082, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
